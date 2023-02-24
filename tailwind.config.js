@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     fontFamily: {
       mukta: 'Mukta',
+      grind: 'GrindAndDeath'
     },
   },
   variants: {},

@@ -7,6 +7,11 @@
     font-style: normal;
   }
 
+  @font-face {
+    font-family: 'GrindAndDeath';
+    src: url('./assets/fonts/GrindAndDeath.ttf');
+  }
+
   @layer base {
     html{
         font-family: 'Mukta';
